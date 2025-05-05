@@ -8,8 +8,8 @@
 |Samuel Mekete|UGR/14850/14|
 |Haymanot Golbo|UGR/14052/14|
 |Habtework Kindu|UGR/13594/14|
-|----|--|
-|----|--|
+|Abenezer Daniel|UGR/13152/14|
+|Feyise Arfasa|UGR/13861/14|
 |----|--|
 |----|--|
 |----|--|
